@@ -33,14 +33,12 @@
 [<img align ="left" alt="Git" width="33px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />][Temporary]
 [<img align ="left" alt="Git" width="33px" src="https://simpleicons.org/icons/github.svg" />][Temporary]
 <img align="right" src="https://komarev.com/ghpvc/?username=vincentbernet&label=Profile%20views&color=0e75b6&style=flat" alt="vincentbernet" />
-
-<br />
-<br />
 [<img align ="left" alt="Efrei" width="33px" src="https://www.studapart.com/sites/prod/files/2019-04/efrei-paris.png" />][Temporary]
+<br />
+<br />
+
 ---
  
-
-
 
 
 [Temporary]: https://github.com/SebastienGt/SebastienGt
