@@ -1,36 +1,20 @@
-### Hi there 👋
-
 <!--
 **SebastienGt/SebastienGt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### Hello World, I'm Vincent 👋
+### Hello World, I'm Sébastien 👋
  
  <img align="right" alt="GIF" src="https://miro.medium.com/max/2400/1*CgjvOHqRTMXw2i8m7Mdo0w.gif" height="350" />
 
 
-## I'm a Software Engineer Student !
-- ✍ You can find my projects [here]
+## I'm a Software Engineer Student.
+- ✍ You can find my projects
 - 📈 I’m currently working on my own portfollio
-- 🌱 Learning Vue.js to build it 
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
-- ⚡ Fun fact: With my team we are 2019 french student champion on League of Legend
 
 
 ### Contact me :
-[<img align="left" alt="Vincent Bernet | LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Vincent Bernet | Linktr" width="32px" src="https://img.icons8.com/color/48/000000/linktree.svg"/>][linktr]
+[<img align="left" alt="Sébastien | LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />][linkedin]
 
 <br />
 
@@ -50,23 +34,14 @@ Here are some ideas to get you started:
 [<img align ="left" alt="Git" width="33px" src="https://simpleicons.org/icons/github.svg" />][Temporary]
 <img align="right" src="https://komarev.com/ghpvc/?username=vincentbernet&label=Profile%20views&color=0e75b6&style=flat" alt="vincentbernet" />
 
-
-
 <br />
 <br />
+[<img align ="left" alt="Efrei" width="33px" src="https://www.studapart.com/sites/prod/files/2019-04/efrei-paris.png" />][Temporary]
 ---
  
-<detail>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Vincent's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=VincentBernet&show_icons=true&hide_border=true&theme=merko" />
-
-</detail>
 
 
 
 
-[Temporary]: https://github.com/VincentBernet
-[here]: https://github.com/VincentBernet?tab=repositories
-[linktr]: https://linktr.ee/VincentBernet
-[linkedin]: https://www.linkedin.com/in/vincent-bernet-028a64193/
+[Temporary]: https://github.com/SebastienGt/SebastienGt
+[linkedin]: https://www.linkedin.com/in/sebastien-friedberg/
